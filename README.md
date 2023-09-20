@@ -1,4 +1,4 @@
-# flutter_complete_guide
+# flutter_crash_course
 
 A new Flutter project.
 
